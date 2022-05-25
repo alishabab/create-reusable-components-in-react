@@ -1,5 +1,10 @@
 .container {
-  padding: 0 2rem;
+  padding: 2rem;
+}
+
+.newStyles {
+  background-color: #e26c6c;
+  color: #fff;
 }
 
 .main {
